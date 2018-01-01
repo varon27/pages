@@ -289,6 +289,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d96b4da8', e
 	color: #526cbb;
 	font-weight: bold;
 }
+.margin0{
+	margin-bottom: 0 !important;
+ }
 /* Skills Section */
 #skills {
 	padding: 100px 0;
