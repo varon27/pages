@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="108" column="192" lean-forward="false" selection-start-line="108" selection-start-column="192" selection-end-line="108" selection-end-column="192" />
+            <state relative-caret-position="345">
+              <caret line="485" column="10" lean-forward="true" selection-start-line="485" selection-start-column="10" selection-end-line="485" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -67,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="291" column="9" lean-forward="false" selection-start-line="291" selection-start-column="9" selection-end-line="291" selection-end-column="9" />
+            <state relative-caret-position="466">
+              <caret line="815" column="0" lean-forward="true" selection-start-line="815" selection-start-column="0" selection-end-line="815" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -81,7 +81,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>round</find>
       <find>rounded-circle</find>
       <find>img-rounded</find>
       <find>rounded-cir</find>
@@ -109,8 +108,9 @@
       <find>#portfolio</find>
       <find>intro</find>
       <find>display</find>
-      <find>btn-exp</find>
       <find>ABOUT</find>
+      <find>footer</find>
+      <find>btn-exp</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -123,8 +123,8 @@
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
         <option value="$PROJECT_DIR$/js/contact_me.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -219,12 +219,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514467384994</updated>
-      <workItem from="1514467386493" duration="41910000" />
+      <workItem from="1514467386493" duration="42823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41910000" />
+    <option name="totallyTimeSpent" value="42823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-26" y="54" width="1438" height="788" extended-state="0" />
@@ -352,18 +352,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="291" column="9" lean-forward="false" selection-start-line="291" selection-start-column="9" selection-end-line="291" selection-end-column="9" />
+        <state relative-caret-position="345">
+          <caret line="485" column="10" lean-forward="true" selection-start-line="485" selection-start-column="10" selection-end-line="485" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="108" column="192" lean-forward="false" selection-start-line="108" selection-start-column="192" selection-end-line="108" selection-end-column="192" />
+        <state relative-caret-position="466">
+          <caret line="815" column="0" lean-forward="true" selection-start-line="815" selection-start-column="0" selection-end-line="815" selection-end-column="0" />
           <folding />
         </state>
       </provider>

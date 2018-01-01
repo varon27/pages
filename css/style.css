@@ -810,6 +810,9 @@ color: #2c3e50;
 #footer a:hover {
 	color: #526cbb;
 }
+.easter-egg{
+	display: none;
+}
 
 /* Media Queries */
 @media(min-width:768px) {
