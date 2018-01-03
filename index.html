@@ -45,19 +45,14 @@
           <div class="intro-text">
             <h1>Valériane Aron</h1>
             <p>PHP Web Developer </br>(Rêveuse et voyageuse en dehors de l'écran)</p>
-            <div>
-              <ul class="timeline">
-                <li class="timeline-inverted">
-                  <div class="timeline-image">
-                    <h4>Je recherche
-                      <br>un stage pour
-                      <br>Mars 2018 !</h4>
-                  </div>
-                </li>
-              </ul>
+            <div class="timeline-image-stage timeline-stage-first">
+              <h4>Je recherche
+                <br>un stage pour
+                <br>Mars 2018 !
+              </h4>
             </div>
             <div class="dessus-btn-intro">
-              <a href="print/CV_Valeriane_ARON_2018_chef de projet web_developpeur PHP.pdf" class="btn btn-default btn-lg page-scroll">Téléchargez mon CV</a>
+              <a href="print/CV_Valeriane_ARON_2018_developpeurPHP.pdf" class="btn btn-default btn-lg page-scroll">Téléchargez mon CV</a>
               <a href="#contact" class="btn btn-default btn-lg page-scroll">Me contacter</a>
             </div>
           </div>
@@ -108,7 +103,7 @@
           <p>Depuis septembre 2017, j'apprends les lignes de code html, css, php, js... et j'adore ça ! Pouvoir coder est une vraie libération et je compte bien développer mes nouvelles compétences pour en faire mon nouveau métier.</p>
           <span class="defi-about">Prochain défi ?</span><p>Faire fructifier ces mois de formation intensive en PHP en intégrant le stage qui viendra renforcer mes connaissances, dès Mars 2018.</p>
           <p class="defi-about">Je suis curieuse et j'ai l'envie d'apprendre, il paraît que c'est un bon début :) </p>
-          <a href="#portfolio" class="btn btn-primary btn-lg page-scroll">Ce que j'ai accompli jusqu'à maintenant ?</a> </div>
+          <a href="#portfolio" class="btn btn-primary btn-lg page-scroll center-block">Ce que j'ai accompli jusqu'à maintenant ?</a> </div>
       </div>
     </div>
   </div>
@@ -191,7 +186,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Mon parcours</h2>
+        <h2 class="parcoursh2">Mon parcours</h2>
         <hr>
       </div>
     </div>
@@ -200,7 +195,7 @@
       <div class="col-lg-12">
         <ul class="timeline">
           <li class="timeline-inverted">
-            <div class="timeline-image">
+            <div class="timeline-image-stage">
               <h4>Je recherche
                 <br>un stage pour
                 <br>Mars 2018 !</h4>
@@ -322,108 +317,93 @@
       <h2>Portfolio</h2>
       <hr>
     </div>
-    <div class="categories">
-      <ul class="cat">
-        <li>
-          <ol class="type">
-            <li><a href="#" data-filter="*" class="active">Tous les projets</a></li>
-            <li><a href="#" data-filter=".wcs">Wild Code School</a></li>
-            <li><a href="#" data-filter=".design">Web Design</a></li>
-          </ol>
-        </li>
-      </ul>
-      <div class="clearfix"></div>
+    <div class="categories row">
+      <!--<div class="col-xs-12">-->
+        <ul class="cat">
+          <li>
+            <ol class="type">
+              <li><a href="#" data-filter="*" class="active">Tous les projets</a></li>
+              <li><a href="#" data-filter=".wcs">Wild Code School</a></li>
+              <li><a href="#" data-filter=".design">Web Design</a></li>
+            </ol>
+          </li>
+        </ul>
+
+
     </div>
     <div class="row">
       <div class="portfolio-items">
+        <!-- Vignettes -->
+        <!-- Born To Be Wild -->
         <div class="col-sm-6 col-md-4 col-lg-4 wcs">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/btbw-large.jpg" title="Born To Be Wild, exemple du site d'un groupe de rock indépendant." rel="prettyPhoto">
-              <div class="hover-text">
-                <h4>Born To Be Wild</h4>
-                <small>Wild Code School</small>
-              </div>
-              <img src="img/portfolio/btbw-small.jpg" class="img-responsive" alt="Home Page du site Born To Be Wild"> </a>
+            <div class="hover-bg">
+              <a href="img/portfolio/btbw-large.jpg" title="Born To Be Wild, exemple du site d'un groupe de rock indépendant." rel="prettyPhoto">
+                <div class="hover-text">
+                  <h4>Born To Be Wild</h4>
+                  <small>Wild Code School</small>
+                </div>
+                <img src="img/portfolio/btbw-small.jpg" class="img-responsive" alt="Home Page du site Born To Be Wild">
+              </a>
             </div>
           </div>
           <div>
-            <a href="https://github.com/varon27/BornToBeWild" class="btn btn-default btn-exp col-md-8">Projet Github</a>
-            <a href="https://docs.google.com/presentation/d/1UqUHKrj-W0UpCLOTYDSyOyrZJLGP1Kht-crooV2djic/edit?usp=sharing" class="btn btn-default btn-exp col-md-4"><i class="fa fa-plus"></i></a>
+            <a href="https://github.com/varon27/BornToBeWild" class="btn btn-default btn-exp col-md-8 col-xs-10">Projet Github</a>
+            <a href="https://docs.google.com/presentation/d/1UqUHKrj-W0UpCLOTYDSyOyrZJLGP1Kht-crooV2djic/edit?usp=sharing" class="btn btn-default btn-exp col-md-4 col-xs-2"><i class="fa fa-plus"></i></a>
           </div>
         </div>
+        <!-- Weasleys' Wizard Wheezes -->
         <div class="col-sm-6 col-md-4 col-lg-4 wcs">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/wws-large.jpg" title="Weasleys' Wizard Wheezes, les frères Weasley ouvrent le site vitrine (administrable) de leur boutique parisienne." rel="prettyPhoto">
-              <div class="hover-text">
-                <h4>Weasleys' Wizard Wheezes</h4>
-                <small>Wild Code School</small> </div>
-              <img src="img/portfolio/wwws-small.jpg" class="img-responsive" alt="Home page du site Weasleys' Wizard Wheezes"> </a> </div>
+            <div class="hover-bg">
+              <a href="img/portfolio/wws-large.jpg" title="Weasleys' Wizard Wheezes, les frères Weasley ouvrent le site vitrine (administrable) de leur boutique parisienne." rel="prettyPhoto">
+                <div class="hover-text">
+                  <h4>Weasleys' Wizard Wheezes</h4>
+                  <small>Wild Code School</small>
+                </div>
+              <img src="img/portfolio/wwws-small.jpg" class="img-responsive" alt="Home page du site Weasleys' Wizard Wheezes">
+              </a>
+            </div>
           </div>
           <div>
-            <a href="https://github.com/WildCodeSchool/parisCode-1017-Weasley" class="btn btn-default btn-exp col-md-8">Projet Github</a>
-            <a href="https://docs.google.com/presentation/d/12Z4Z8TGKq8X4o0Vys6LoZNNMcdlHbKDAdI1ubri8BSQ/edit?usp=sharing" class="btn btn-default btn-exp col-md-2"><i class="fa fa-plus"></i></a>
-            <a href="https://weasleys-wizards-wheezes.herokuapp.com/index.php" class="btn btn-default btn-exp col-md-2"><i class="fa fa-at"></i></a>
+            <a href="https://github.com/WildCodeSchool/parisCode-1017-Weasley" class="btn btn-default btn-exp col-md-8 col-xs-8">Projet Github</a>
+            <a href="https://docs.google.com/presentation/d/12Z4Z8TGKq8X4o0Vys6LoZNNMcdlHbKDAdI1ubri8BSQ/edit?usp=sharing" class="btn btn-default btn-exp col-md-2 col-xs-2"><i class="fa fa-plus"></i></a>
+            <a href="https://weasleys-wizards-wheezes.herokuapp.com/index.php" class="btn btn-default btn-exp col-md-2 col-xs-2"><i class="fa fa-at"></i></a>
           </div>
         </div>
+        <!-- OzOut -->
         <div class="col-sm-6 col-md-4 col-lg-4 wcs">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/ozout-large.jpg" title="OzOut, cas concret de la conception d'un site d'organisation d'événements, cagnottage et billeterie." rel="prettyPhoto">
-              <div class="hover-text">
-                <h4>OzOut - En cours de réalisation</h4>
-                <small>Wild Code School</small> </div>
-              <img src="img/portfolio/ozout-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+            <div class="hover-bg">
+              <a href="img/portfolio/ozout-large.jpg" title="OzOut, cas concret de la conception d'un site d'organisation d'événements, cagnottage et billeterie." rel="prettyPhoto">
+                <div class="hover-text">
+                  <h4>OzOut - En cours de réalisation</h4>
+                  <small>Wild Code School</small>
+                </div>
+              <img src="img/portfolio/ozout-small.jpg" class="img-responsive" alt="Project Title">
+              </a>
+            </div>
           </div>
           <div>
             <a class="btn btn-default btn-exp col-md-12">Livraison du projet fin février 2018</a>
             <!--<a href="https://docs.google.com/presentation/d/12Z4Z8TGKq8X4o0Vys6LoZNNMcdlHbKDAdI1ubri8BSQ/edit?usp=sharing" class="btn btn-default btn-exp col-md-4"><i class="fa fa-plus"></i></a>-->
           </div>
         </div>
-
+        <!-- Maquette Weasleys' Wizard Wheezes -->
         <div class="col-sm-6 col-md-4 col-lg-4 design">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/wireframe.jpg" title="Création du logo du site ainsi que de la charte graphique et de la maquette / wireframe" rel="prettyPhoto">
-              <div class="hover-text">
-                <h4>Maquette & Logo Weasleys' Wizard Wheezes</h4>
-                <small>Web Design</small> </div>
-              <img src="img/portfolio/wireframe-small.jpg" class="img-responsive" alt="Maquette & Logo Weasleys' Wizard Wheezes"> </a> </div>
+            <div class="hover-bg">
+              <a href="img/portfolio/wireframe.jpg" title="Création du logo du site ainsi que de la charte graphique et de la maquette / wireframe" rel="prettyPhoto">
+                <div class="hover-text">
+                  <h4>Maquette & Logo Weasleys' Wizard Wheezes</h4>
+                  <small>Web Design</small>
+                </div>
+              <img src="img/portfolio/wireframe-small.jpg" class="img-responsive" alt="Maquette & Logo Weasleys' Wizard Wheezes">
+              </a>
+            </div>
           </div>
         </div>
-        <!--<div class="col-sm-6 col-md-3 col-lg-3 app">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/05-large.jpg" title="Project description" rel="prettyPhoto">
-              <div class="hover-text">
-                <h4>Project Title</h4>
-                <small>App Development</small> </div>
-              <img src="img/portfolio/05-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 branding">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/06-large.jpg" title="Project description" rel="prettyPhoto">
-              <div class="hover-text">
-                <h4>Project Title</h4>
-                <small>Branding</small> </div>
-              <img src="img/portfolio/06-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 branding app">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/07-large.jpg" title="Project description" rel="prettyPhoto">
-              <div class="hover-text">
-                <h4>Project Title</h4>
-                <small>App Development, Branding</small> </div>
-              <img src="img/portfolio/07-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 web">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/08-large.jpg" title="Project description" rel="prettyPhoto">
-              <div class="hover-text">
-                <h4>Project Title</h4>
-                <small>Web Design</small> </div>
-              <img src="img/portfolio/08-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
-          </div>
-        </div>-->
+
       </div>
     </div>
   </div>
@@ -464,6 +444,7 @@
           <ul>
             <li><a href="https://github.com/varon27"><i class="fa fa-github"></i></a></li>
             <li><a href="https://www.linkedin.com/in/valeriane-aron/"><i class="fa fa-linkedin"></i></a></li>
+            <li><i class="fa fa-skype" aria-hidden="true"></i>valeriane.aron</li>
           </ul>
         </div>
       </div>
