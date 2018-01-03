@@ -169,7 +169,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 	background-color: #222;
 	border-color: #222;
 }
-
 .btn-exp{
     color: black;
     background-color: #e9ecef;
@@ -204,7 +203,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 .div-wcs-btn{
     margin-top: 40px;
 }
-
 .btn-primary {
 	color: #526cbb;
 	background-color: transparent;
@@ -241,8 +239,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	text-align: center;
 	color: #fff;
 	background: url(../img/situ_work/BLmeeting_inverse.jpg) no-repeat center center;
-/*url(../img/situ_work/NBmeeting.jpg)*/
--webkit-background-size: cover;
+    -webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
@@ -278,7 +275,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d96b4da8', e
 #about img {
 	float: right;
 }
-
 #about p {
 	margin-bottom: 30px;
 }
@@ -308,7 +304,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 #skills hr {
 	background: rgba(255,255,255,0.3);
 }
-
 #skills .skill-hr {
     width: 350px;
     margin-bottom: 55px;
@@ -427,29 +422,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
     line-height: 14px;
     margin-top: 12px;
     color: #e9ecef; }
-
-/*.timeline > li .timeline-image-stage {
-    padding: 0;
-    list-style: none;
-    margin-top: 30px;
-    position: absolute;
-    z-index: 100;
-    left: 0;
-    width: 80px;
-    height: 80px;
-    margin-left: 0;
-    text-align: center;
-    color: white;
-    border: 7px solid #e9ecef;
-    border-radius: 100%;
-    background-color: #526cbb;}*/
-
 .timeline > li .timeline-image h4 {
 	font-size: 10px;
 	line-height: 14px;
 	margin-top: 12px;
-    color: #e9ecef;
-}
+    color: #e9ecef;}
 .timeline > li.timeline-inverted > .timeline-panel {
 	float: right;
 	padding: 0 20px 0 100px;
@@ -516,19 +493,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 		padding: 28px 0 0;
 	}
 	.timeline-image-stage{
-        /*border: 4px solid #e9ecef;
-        margin-left: 11em;
-        width: 113px;
-        height: 110px;
-        padding-top: 10px;
-        top: -66%;*/
         display: none;
 	}
     .timeline-image-stage h4{
-       /* color: #e9ecef;
-        font-size: 13px;
-        line-height: 18px;
-        margin-top: 16px;*/
         display: none;
     }
 	.timeline > li .timeline-image{
@@ -549,7 +516,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
         margin-top: 30px;
         color: #e9ecef; }
 }
-
 @media (min-width: 992px) {
 	.timeline > li {
 		min-height: 150px; }
@@ -602,7 +568,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
     margin: -22px;
     max-width: 120%;
 }
-
 .timeline-txt-droite{
     float: right;
 }
@@ -667,7 +632,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
     transform: rotate(90deg);
     background-color: #212529; }
 
-
 /* Portfolio Section */
 #portfolio {
 	padding: 100px 0;
@@ -685,8 +649,6 @@ ol.type li {
 	margin-left: 20px;
 	text-transform: uppercase;
 }
-/* Media query pour affichage uniquement smartphone et en dessous 768 px */
-/*@media only screen and (min-device-width : 320px) and (max-device-width : 768px)*/
 @media(max-width:768px) {
 	ul.cat li {
 		display: inline;
@@ -694,7 +656,6 @@ ol.type li {
     ol.type li {
         display: inline-grid;
     }
-    
 }
 ol.type li a {
 	background: transparent;
