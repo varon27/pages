@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9af023d8-f544-4ce7-8a30-cf3942736e41" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/img/WFL/IMG_0010.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/WFL/IMG_0016.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/WFL/IMG_5164.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/WFL/IMG_5177.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/WFL/Photo 03-05-2014 17 43 08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_0124_2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_0146_2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_0152_2 2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_7783.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_8296.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_8334.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_8335.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_8632.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_8747.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_8768.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/PC190119.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/athenes.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/australie.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/road.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/atmosphere/sunset.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/contact-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/situ_work/BLmeeting.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/situ_work/IMG_5051.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/situ_work/IMG_7362.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/situ_work/NBmeeting.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/situ_work/image1.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/situ_work/image2.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/contact_me.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
@@ -72,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="184" column="19" lean-forward="false" selection-start-line="184" selection-start-column="19" selection-end-line="184" selection-end-column="19" />
+            <state relative-caret-position="259">
+              <caret line="276" column="1" lean-forward="true" selection-start-line="276" selection-start-column="1" selection-end-line="276" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -128,8 +102,8 @@
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
         <option value="$PROJECT_DIR$/js/contact_me.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -239,12 +213,12 @@
       <updated>1514467384994</updated>
       <workItem from="1514467386493" duration="43644000" />
       <workItem from="1514890810533" duration="490000" />
-      <workItem from="1514896530540" duration="14132000" />
+      <workItem from="1514896530540" duration="14236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58266000" />
+    <option name="totallyTimeSpent" value="58370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="93" y="74" width="1438" height="788" extended-state="0" />
@@ -370,14 +344,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/portfolio/02-small.jpg" />
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="184" column="19" lean-forward="false" selection-start-line="184" selection-start-column="19" selection-end-line="184" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4755">
@@ -418,6 +384,14 @@
             <marker date="1514737849216" expanded="true" signature="1340:1347" ph="×" />
             <marker date="1514737849216" expanded="true" signature="2054:2061" ph="×" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="276" column="1" lean-forward="true" selection-start-line="276" selection-start-column="1" selection-end-line="276" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>

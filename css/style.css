@@ -273,6 +273,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d96b4da8', e
 }
 .dessus-btn-intro{
 	margin-top: 40px;
+    line-height: 4;
 }
 /* About Section */
 #about {
