@@ -2,9 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9af023d8-f544-4ce7-8a30-cf3942736e41" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/img/WFL/IMG_0010.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/WFL/IMG_0016.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/WFL/IMG_5164.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/WFL/IMG_5177.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/WFL/Photo 03-05-2014 17 43 08.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_0124_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_0146_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_0152_2 2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_7783.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_8296.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_8334.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_8335.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_8632.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_8747.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/IMG_8768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/PC190119.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/athenes.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/australie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/road.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/atmosphere/sunset.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/contact-bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/situ_work/BLmeeting.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/situ_work/IMG_5051.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/situ_work/IMG_7362.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/situ_work/NBmeeting.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/situ_work/image1.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/situ_work/image2.jpeg" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,17 +39,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
+            <state relative-caret-position="4755">
               <caret line="317" column="144" lean-forward="false" selection-start-line="317" selection-start-column="142" selection-end-line="317" selection-end-column="144" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/contact_me.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
@@ -48,26 +72,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50670">
-              <caret line="3378" column="1" lean-forward="false" selection-start-line="3378" selection-start-column="1" selection-end-line="3378" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="prettyPhoto.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/prettyPhoto.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,7 +86,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>page-s</find>
       <find>important</find>
       <find>clearfix</find>
       <find>.web</find>
@@ -112,6 +115,7 @@
       <find>display-block</find>
       <find>.btn-exp</find>
       <find>fa-linkedin-square</find>
+      <find>fa</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,8 +141,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="25" />
-    <option name="y" value="23" />
+    <option name="x" value="93" />
+    <option name="y" value="74" />
     <option name="width" value="1438" />
     <option name="height" value="788" />
   </component>
@@ -170,12 +174,25 @@
             <path>
               <item name="CV_geek" type="b2602c69:ProjectViewProjectNode" />
               <item name="CV_geek" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="print" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="CV_geek" type="b2602c69:ProjectViewProjectNode" />
               <item name="CV_geek" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="print" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="CV_geek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CV_geek" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bootstrap" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="CV_geek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CV_geek" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bootstrap" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -222,15 +239,15 @@
       <updated>1514467384994</updated>
       <workItem from="1514467386493" duration="43644000" />
       <workItem from="1514890810533" duration="490000" />
-      <workItem from="1514896530540" duration="13677000" />
+      <workItem from="1514896530540" duration="14132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57811000" />
+    <option name="totallyTimeSpent" value="58266000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="25" y="23" width="1438" height="788" extended-state="0" />
+    <frame x="93" y="74" width="1438" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17941585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -353,29 +370,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/portfolio/02-small.jpg" />
-    <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="104" lean-forward="false" selection-start-line="33" selection-start-column="104" selection-end-line="33" selection-end-column="104" />
-          <folding>
-            <marker date="1514737849216" expanded="true" signature="1340:1347" ph="×" />
-            <marker date="1514737849216" expanded="true" signature="2054:2061" ph="×" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        <state relative-caret-position="400">
+          <caret line="184" column="19" lean-forward="false" selection-start-line="184" selection-start-column="19" selection-end-line="184" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50670">
-          <caret line="3378" column="1" lean-forward="false" selection-start-line="3378" selection-start-column="1" selection-end-line="3378" selection-end-column="1" />
+        <state relative-caret-position="4755">
+          <caret line="317" column="144" lean-forward="false" selection-start-line="317" selection-start-column="142" selection-end-line="317" selection-end-column="144" />
           <folding />
         </state>
       </provider>
@@ -388,19 +394,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="184" column="19" lean-forward="false" selection-start-line="184" selection-start-column="19" selection-end-line="184" selection-end-column="19" />
+        <state relative-caret-position="50670">
+          <caret line="3378" column="1" lean-forward="false" selection-start-line="3378" selection-start-column="1" selection-end-line="3378" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="317" column="144" lean-forward="false" selection-start-line="317" selection-start-column="142" selection-end-line="317" selection-end-column="144" />
+        <state relative-caret-position="285">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="104" lean-forward="false" selection-start-line="33" selection-start-column="104" selection-end-line="33" selection-end-column="104" />
+          <folding>
+            <marker date="1514737849216" expanded="true" signature="1340:1347" ph="×" />
+            <marker date="1514737849216" expanded="true" signature="2054:2061" ph="×" />
+          </folding>
         </state>
       </provider>
     </entry>
