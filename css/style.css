@@ -175,10 +175,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
     border-color: #e9ecef;
     margin-top: 15px;
 	display: block;
+	min-width: 200px;
 }
 .display-block{
 	display: block;
 	margin-top: 15px;
+	line-height: 4;
 }
 .btn-exp-wild{
     background-color: #f7af05;
@@ -202,6 +204,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 }
 .div-wcs-btn{
     margin-top: 40px;
+	line-height: 4;
 }
 .btn-primary {
 	color: #526cbb;
@@ -488,7 +491,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 		text-align: left; }
 }
 /* Media query pour affichage uniquement smartphone et en dessous 768 px */
-@media only screen and (min-device-width : 320px) and (max-device-width : 768px) {
+@media only screen and (min-device-width : 300px) and (max-device-width : 768px) {
 	.parcoursh2{
 		padding: 28px 0 0;
 	}
@@ -501,6 +504,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 	.timeline > li .timeline-image{
 		border: 1px solid #e9ecef;
         padding-top: 7px;
+	}
+	.text-modal{
+		line-height: 28px;
 	}
 }
 @media only screen and (min-device-width : 768px) and (max-device-width : 1200px) {
@@ -584,7 +590,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
     text-align: center; }
 .portfolio-modal .modal-content h2 {
     font-size: 2em;
-    margin-bottom: 15px; }
+    margin-bottom: 15px;
+	line-height: 28px;}
 .portfolio-modal .modal-content p {
     margin: 20px; }
 .portfolio-modal .modal-content p.item-intro {

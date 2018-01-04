@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="182" column="107" lean-forward="true" selection-start-line="182" selection-start-column="107" selection-end-line="182" selection-end-column="107" />
+            <state relative-caret-position="289">
+              <caret line="317" column="18" lean-forward="false" selection-start-line="317" selection-start-column="18" selection-end-line="317" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -70,8 +70,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3788">
-              <caret line="633" column="0" lean-forward="false" selection-start-line="633" selection-start-column="0" selection-end-line="633" selection-end-column="0" />
+            <state relative-caret-position="295">
+              <caret line="177" column="21" lean-forward="false" selection-start-line="177" selection-start-column="21" selection-end-line="177" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -81,8 +81,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hr</find>
-      <find>rounded</find>
       <find>time</find>
       <find>btn-default</find>
       <find>btn-lg</find>
@@ -104,13 +102,15 @@
       <find>intro</find>
       <find>display</find>
       <find>ABOUT</find>
-      <find>btn-exp</find>
       <find>footer</find>
       <find>social</find>
       <find>cat</find>
       <find>section</find>
       <find>timeline-stage</find>
       <find>cate</find>
+      <find>display-</find>
+      <find>display-block</find>
+      <find>btn-exp</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -221,12 +221,12 @@
       <updated>1514467384994</updated>
       <workItem from="1514467386493" duration="43644000" />
       <workItem from="1514890810533" duration="490000" />
-      <workItem from="1514896530540" duration="11681000" />
+      <workItem from="1514896530540" duration="13093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55815000" />
+    <option name="totallyTimeSpent" value="57227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1438" height="788" extended-state="0" />
@@ -389,16 +389,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3788">
-          <caret line="633" column="0" lean-forward="false" selection-start-line="633" selection-start-column="0" selection-end-line="633" selection-end-column="0" />
+        <state relative-caret-position="295">
+          <caret line="177" column="21" lean-forward="false" selection-start-line="177" selection-start-column="21" selection-end-line="177" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="182" column="107" lean-forward="true" selection-start-line="182" selection-start-column="107" selection-end-line="182" selection-end-column="107" />
+        <state relative-caret-position="289">
+          <caret line="317" column="18" lean-forward="false" selection-start-line="317" selection-start-column="18" selection-end-line="317" selection-end-column="18" />
           <folding />
         </state>
       </provider>
