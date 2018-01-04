@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9af023d8-f544-4ce7-8a30-cf3942736e41" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -17,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="317" column="18" lean-forward="false" selection-start-line="317" selection-start-column="18" selection-end-line="317" selection-end-column="18" />
+            <state relative-caret-position="205">
+              <caret line="317" column="144" lean-forward="false" selection-start-line="317" selection-start-column="142" selection-end-line="317" selection-end-column="144" />
               <folding />
             </state>
           </provider>
@@ -70,8 +71,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="177" column="21" lean-forward="false" selection-start-line="177" selection-start-column="21" selection-end-line="177" selection-end-column="21" />
+            <state relative-caret-position="400">
+              <caret line="184" column="19" lean-forward="false" selection-start-line="184" selection-start-column="19" selection-end-line="184" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -81,9 +82,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>time</find>
-      <find>btn-default</find>
-      <find>btn-lg</find>
       <find>page-s</find>
       <find>important</find>
       <find>clearfix</find>
@@ -109,8 +107,11 @@
       <find>timeline-stage</find>
       <find>cate</find>
       <find>display-</find>
-      <find>display-block</find>
       <find>btn-exp</find>
+      <find>wcs</find>
+      <find>display-block</find>
+      <find>.btn-exp</find>
+      <find>fa-linkedin-square</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -221,12 +222,12 @@
       <updated>1514467384994</updated>
       <workItem from="1514467386493" duration="43644000" />
       <workItem from="1514890810533" duration="490000" />
-      <workItem from="1514896530540" duration="13093000" />
+      <workItem from="1514896530540" duration="13677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57227000" />
+    <option name="totallyTimeSpent" value="57811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1438" height="788" extended-state="0" />
@@ -389,16 +390,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="177" column="21" lean-forward="false" selection-start-line="177" selection-start-column="21" selection-end-line="177" selection-end-column="21" />
+        <state relative-caret-position="400">
+          <caret line="184" column="19" lean-forward="false" selection-start-line="184" selection-start-column="19" selection-end-line="184" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="317" column="18" lean-forward="false" selection-start-line="317" selection-start-column="18" selection-end-line="317" selection-end-column="18" />
+        <state relative-caret-position="205">
+          <caret line="317" column="144" lean-forward="false" selection-start-line="317" selection-start-column="142" selection-end-line="317" selection-end-column="144" />
           <folding />
         </state>
       </provider>
