@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9af023d8-f544-4ce7-8a30-cf3942736e41" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/print/CV_Valeriane_ARON_2018_developpeurPHP.pdf" afterPath="$PROJECT_DIR$/print/CV_Valeriane_ARON_2018_developpeurPHP.pdf" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,10 +16,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="54" column="80" lean-forward="false" selection-start-line="54" selection-start-column="80" selection-end-line="54" selection-end-column="80" />
+            <state relative-caret-position="454">
+              <caret line="406" column="67" lean-forward="false" selection-start-line="406" selection-start-column="67" selection-end-line="406" selection-end-column="67" />
               <folding>
-                <element signature="e#23002#23008#0" expanded="true" />
+                <element signature="e#22992#22998#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -230,12 +229,12 @@
       <updated>1514467384994</updated>
       <workItem from="1514467386493" duration="43644000" />
       <workItem from="1514890810533" duration="490000" />
-      <workItem from="1514896530540" duration="19869000" />
+      <workItem from="1514896530540" duration="19993000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64003000" />
+    <option name="totallyTimeSpent" value="64127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="139" y="69" width="1438" height="788" extended-state="0" />
@@ -277,7 +276,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#23002#23008#0" expanded="true" />
+            <element signature="e#22992#22998#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -425,10 +424,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="54" column="80" lean-forward="false" selection-start-line="54" selection-start-column="80" selection-end-line="54" selection-end-column="80" />
+        <state relative-caret-position="454">
+          <caret line="406" column="67" lean-forward="false" selection-start-line="406" selection-start-column="67" selection-end-line="406" selection-end-column="67" />
           <folding>
-            <element signature="e#23002#23008#0" expanded="true" />
+            <element signature="e#22992#22998#0" expanded="true" />
           </folding>
         </state>
       </provider>
