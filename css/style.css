@@ -408,11 +408,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 	width: 80px;
 	height: 80px;
 	margin-left: 0;
-	text-align: center;
-	color: white;
-	border: 7px solid #e9ecef;
-	border-radius: 100%;
-	background-color: #526cbb;}
+}
 .timeline-image-stage {
     padding: 0;
     list-style: none;
