@@ -1,7 +1,17 @@
 # CV_Valeriane_Aron
-A small resume of who I am and what I'm capable of...
+A small resume of who I am and what I've done so far.
+I started this project in 2018 to use and grow my skills in a personal project.
+The first version was inspired by a one pager template, since the idea was to make something simple. This was also a way to start learning Javascript through small scripts here and there... 
+Css remains very basic, it is a choice not to go too deep into configuration through a webpack setup for example.
 
-I'm Valeriane, newbie in web development and achieving a PHP training in March 2018.
-I'm currently looking for a 4 months (or more) internship, if you think I have the potential you're searching for, do not hesitate to contact me!
+## What I want for this project
 
-Have a good journey through my code and talk to you soon!
+The idea is to keep this page as an ongoing witness of my growing skills.
+
+## My short-term objectives
+
+- turn css into sass - because it's how I'm used to code, and it's very hard to go back to Stone Age :-))
+- redevelop the project in Vue.Js, using components, which will make updates much more easier through the years!
+
+
+
