@@ -420,11 +420,19 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 /* Skills Section-end */
 
 /* Timeline Section */
-
+#parcours {
+	padding: 100px 0;
+}
 #parcours h4{
 	overflow-wrap: break-word;
 }
-
+#parcours .timeline-separation {
+	background-color: #FFF;
+	padding: 30px 0;
+}
+#parcours .timeline-heading-center {
+	text-transform: uppercase;
+}
 .timeline {
 	position: relative;
 	padding: 0;
@@ -696,6 +704,19 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 		left: 54%;
 		border-radius: 50%;
 	}
+	#parcours .timeline-image-left {
+		left: calc(54% - (54%/2));
+	}
+	#parcours .timeline-image-right {
+		left: calc(54% + (54%/2));
+	}
+	#parcours .timeline-heading-center {
+		text-align: center;
+	}
+	#parcours .separation-title{
+		font-size: 30px;
+		margin-bottom: 40px;
+	}
 }
 
 @media (min-width: 1200px) {
@@ -718,6 +739,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
         color: #e9ecef; }
 	.timeline > li.timeline-inverted > .timeline-panel {
 		padding: 0 100px 20px 20px;
+	}
+	#parcours .container{
+		width: 1280px;
 	}
 }
 
