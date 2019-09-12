@@ -913,11 +913,16 @@ ol.type li {
 	ul.cat li {
 		display: inline;
 	}
+	ol.type {
+		display: inline-flex;
+	}
     ol.type li {
-        display: inline-grid;
+		display: inline-grid;
+		margin: 0;
+		padding: 0 15px;
 	}
 	#portfolio .mobile-center {
-		left: 20%!important;
+		/* left: 20%!important; */
 	}
 }
 ol.type li a {
