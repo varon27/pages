@@ -346,6 +346,11 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 0;
 	padding-block: 32px;
 }
+.congrats h3 {
+	color: white !important;
+	margin-top: 0;
+	margin-bottom: 24px;
+}
 
 #about {
 	padding: 100px 0;
@@ -373,6 +378,31 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
  #about .description {
 	display: inline-block;
 	margin-bottom: 20px;
+}
+.max-airways-gradient {
+	text-decoration: underline;
+	background: -webkit-linear-gradient(top, rgba(107,77,168,1) 10%, rgba(73,119,194,1) 100%);
+	background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+	font-weight:600;
+}
+
+.max-airways-description a {
+	background: transparent;
+	border: 2px solid #526cbb;
+	color: #526cbb;
+	padding: 10px 20px;
+	margin-left: 15px;
+	margin-bottom: 20px;
+}
+.max-airways-description a.active {
+	background: #526cbb;
+	color: #fff;
+}
+.max-airways-description a:hover {
+	background: #526cbb;
+	color: #fff;
 }
 
 @media only screen and (min-device-width : 300px) and (max-device-width : 768px) {
